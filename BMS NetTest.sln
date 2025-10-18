@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMS NetTest", "BMS NetTest.vcxproj", "{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Debug|x64.ActiveCfg = Debug|x64
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Debug|x64.Build.0 = Debug|x64
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Debug|x86.Build.0 = Debug|Win32
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Release|x64.ActiveCfg = Release|x64
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Release|x64.Build.0 = Release|x64
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Release|x86.ActiveCfg = Release|Win32
+		{6BC1EA5E-2B8F-4F64-9E26-3B3ABCCB4194}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B1FA63-CC4F-4813-A59B-10916E641AE4}
+	EndGlobalSection
+EndGlobal
